@@ -4,13 +4,13 @@ Hi 👋 My name is Sanskar raj
 React js Developer
 ------------------
 
-I'm a very young and passionate web developer. A Year ago I started lerning code with html and css and slowly got interest in react and so now I'm a full time react js developer . Recently I started learning the backend and database too . Hopefully will be a full stack developer in a few weeks
+I'm a very young and passionate web developer. A Year ago I started lerning coding with html and css and slowly got interest in react and so now I'm a full time react js developer . Recently I started learning the backend and database too . Hopefully will be a full stack developer in a few weeks
 
 * 🌍  I'm based in Jaipur , Rajasthan , India
 * ✉️  You can contact me at [rajsanskar118@gmail.com](mailto:rajsanskar118@gmail.com)
 * 🧠  I'm learning Next.js , MongoDb , NodeJs , Postgres ,
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I'm more than this bio , don't tellanyone
+* ⚡  I'm more than this bio , don't tell anyone
 
 ### Skills
 
